@@ -1,0 +1,20 @@
+{
+  "name": "lifestyle-startup-system",
+  "interface": {
+    "displayName": "Lifestyle Startup System"
+  },
+  "plugins": [
+    {
+      "name": "lifestyle-startup-system",
+      "source": {
+        "source": "local",
+        "path": "."
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

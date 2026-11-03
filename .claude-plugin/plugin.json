@@ -1,0 +1,20 @@
+{
+  "name": "lifestyle-startup-system",
+  "version": "1.0.0",
+  "description": "Lifestyle Startup System — turn your skill into a product you can scale. Nine steps, one skill each: find the idea, shape the offer, set the brand and design system, prototype the key flows on a canvas, plan the build, check security, go live, and grow. Every step writes one numbered document to your docs/ folder.",
+  "author": {
+    "name": "Chris Ashby",
+    "email": "chris@telescope.design"
+  },
+  "homepage": "https://telescope.design",
+  "license": "Commercial - see LICENSE.md",
+  "keywords": [
+    "product",
+    "founder",
+    "lifestyle-business",
+    "productize",
+    "design",
+    "build-plan",
+    "go-to-market"
+  ]
+}

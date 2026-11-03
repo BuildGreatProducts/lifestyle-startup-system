@@ -1,0 +1,17 @@
+{
+  "description": "Lifestyle Startup System: greet the member at session start with where they are and what \"continue\" will do. Silent in folders that don't use the system.",
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "startup|clear",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "[ -n \"$CLAUDE_PLUGIN_ROOT\" ] && sh \"$CLAUDE_PLUGIN_ROOT/hooks/session-start.sh\" || true",
+            "timeout": 10
+          }
+        ]
+      }
+    ]
+  }
+}
