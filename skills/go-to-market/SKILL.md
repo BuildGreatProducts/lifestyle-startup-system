@@ -24,7 +24,7 @@ Take the voice of an operator who's launched a lot of small products:
 
 ## Inputs
 
-- `docs/2-OFFER.md` — `## Summary`; the customer and where they hang out (the spine of the plan); the offer's pain and proof (the competitors to tear down); `## Product shape` → `Shape: <slug>`; pricing (what a channel can afford to cost). Missing → run `product-offer` first; a channel plan on a fuzzy offer finds the wrong people.
+- `docs/2-OFFER.md` — `## Summary`; the customer and where they hang out (the spine of the plan); the offer's pain and proof (the competitors to tear down); `## Product` → `Shape: <slug>`; pricing (what a channel can afford to cost). Missing → run `product-offer` first; a channel plan on a fuzzy offer finds the wrong people.
 - `docs/8-GO-LIVE.md` — what's live and where: its `Live at:` line is the link, listing or booking page every action points at. An existing product whose `docs/0-PATH.md` ticks go live as Done is already live: ask for the link. Otherwise, missing or not `Done` → say the product isn't live yet and recommend `go-live` first. If the member wants to plan anyway, write Strategy and mark the actions that need a live link "after go-live".
 - Optional: the magic moment in `docs/5-FLOWS.md` (where links should land); the tone of voice in `docs/3-BRAND.md` (for drafts); `docs/audit/REPORT.md` (its conversion and retention findings are experiment candidates).
 - [../product-offer/references/shapes.md](../product-offer/references/shapes.md) — the shape's Native channels column and its Go to market note.

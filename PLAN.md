@@ -55,7 +55,7 @@ Naming: the old ProductOS `product-audit` (score the project, write a programme)
 Sections, in this order, each a short conversation with live research:
 1. **Customer** — who, their situation, where they hang out (persona, trimmed to what later steps use).
 2. **Offer** — pain, outcome, mechanism, guarantee, proof.
-3. **Product shape** — what form it takes (app, digital product, service, agent skill…), picked from one table.
+3. **Product** — what form it takes (app, digital product, service, agent skill…), picked from one table.
 4. **Pricing** — model, 2–3 real anchors, launch price, the price line.
 5. **Review** — the failure-pattern check from `define-offer-review`, applied before writing.
 

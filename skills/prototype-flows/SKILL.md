@@ -23,7 +23,7 @@ Take the voice of a senior product designer running a design sprint:
 
 ## Inputs
 
-- `docs/2-OFFER.md` — required: the customer, the offer (pain, outcome, mechanism, proof, guarantee), `## Product shape` (`Shape: <slug>`) and the pricing. Read the shape's row and its "Prototype flows" note in [../product-offer/references/shapes.md](../product-offer/references/shapes.md).
+- `docs/2-OFFER.md` — required: the customer, the offer (pain, outcome, mechanism, proof, guarantee), `## Product` (`Shape: <slug>`) and the pricing. Read the shape's row and its "Prototype flows" note in [../product-offer/references/shapes.md](../product-offer/references/shapes.md).
 - `docs/3-BRAND.md` — required: the tone of voice (and its "we say / we don't say"), the chosen visual direction, the canvas link.
 - `docs/4-DESIGN.md` — required for screen shapes: the tokens every screen uses. Lite mode needs only its brand tokens.
 - `docs/5-FLOWS.md` if it exists — a re-run. Carry over what's settled, show what would change, and ask before overwriting a `Done` document.

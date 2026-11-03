@@ -5,7 +5,7 @@ last-reviewed: 2026-10-01
 
 # Product shapes
 
-A product's **shape** is how the customer receives and uses it: the surface it lives on, what "live" means, and what a first sale looks like. `product-offer` picks it and writes it to `docs/2-OFFER.md` → `## Product shape` as a line `Shape: <slug>`. Later steps read that line and this file: brand identity and design system (full or lite), prototype flows (which flows exist, what the front door is), build plan, go live (what "live" means and the route), and go to market (native channels).
+A product's **shape** is how the customer receives and uses it: the surface it lives on, what "live" means, and what a first sale looks like. `product-offer` picks it and writes it to `docs/2-OFFER.md` → `## Product` as a line `Shape: <slug>`. Later steps read that line and this file: brand identity and design system (full or lite), prototype flows (which flows exist, what the front door is), build plan, go live (what "live" means and the route), and go to market (native channels).
 
 > Shapes are durable; platform fees, review times and store rules are not. **Fee and policy notes last reviewed October 2026** — re-check each one live before quoting it to the member.
 

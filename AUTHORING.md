@@ -42,7 +42,7 @@ Nine steps, one skill each, numbered in order. Each step writes one document to 
 
 **Canvas.** Steps that design visually (`brand-identity`, `prototype-flows`, `product-audit`, and `design-system`'s catalogue) follow [skills/brand-identity/references/design-tools.md](skills/brand-identity/references/design-tools.md) to find and drive the canvas tool: `/design` first (in the Claude Code desktop app it opens a Claude Design canvas in the app), then Figma, Paper, MagicPath, Pencil or Stitch through MCP, then an HTML canvas page as the fallback. Record every canvas link in the step's document.
 
-**Product shape.** The shape (web app, mobile app, digital product, productized service, agent skill…) is chosen in step 2 and recorded in `docs/2-OFFER.md` → `## Product shape`. Skills that adapt to it read [skills/product-offer/references/shapes.md](skills/product-offer/references/shapes.md).
+**Product.** The product's shape (web app, mobile app, digital product, productized service, agent skill…) is chosen in step 2 and recorded in `docs/2-OFFER.md` → `## Product`. Skills that adapt to it read [skills/product-offer/references/shapes.md](skills/product-offer/references/shapes.md).
 
 ## Output documents
 

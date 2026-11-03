@@ -24,7 +24,7 @@ Take the voice of a senior technical lead who ships with coding agents:
 
 ## Inputs
 
-- `docs/2-OFFER.md` — the customer, the offer, `## Product shape` (`Shape: <slug>`) and pricing. Pricing decides whether there's a payments phase and what it enforces (plans, trial, free tier).
+- `docs/2-OFFER.md` — the customer, the offer, `## Product` (`Shape: <slug>`) and pricing. Pricing decides whether there's a payments phase and what it enforces (plans, trial, free tier).
 - `docs/3-BRAND.md` — the product name and voice.
 - `docs/4-DESIGN.md` — the tokens and components. The plan builds them in its design-catalogue phase and refers to them by name; it never restates a value. Lite mode (brand tokens only) is enough for screenless shapes.
 - `docs/5-FLOWS.md` — the journeys, the magic moment, every flow's screens with canvas links, and the copy rules. Every screen lands in a phase.

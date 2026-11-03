@@ -3,7 +3,7 @@ name: product-offer
 description: >-
   Step 2. Shapes the member's idea into an offer they can sell, with live research and
   advisor-style critique: the customer, the offer (pain, outcome, mechanism, guarantee, proof),
-  the product shape, and the launch price, closed by a review against known failure patterns.
+  the product (its shape), and the launch price, closed by a review against known failure patterns.
   Writes docs/2-OFFER.md. Use when there's an idea to shape: "build my offer", "who's my
   customer", "what should I charge", "app, service or template?". Also reviews an extracted
   offer draft. Not for finding an idea — use idea-finder; not for an existing product with no
@@ -75,7 +75,7 @@ Read [references/offer-examples.md](references/offer-examples.md) and [reference
 
 **Done when:** each element names something specific — a role, a number, a competitor, a verifiable result — and the pitch sentence in the failure-patterns file reads as one product.
 
-### 4. Product shape
+### 4. Product
 
 Read [references/shapes.md](references/shapes.md). Run its picking questions against the offer and stop at the first clear yes; pick by where the value is delivered, not how it's built. Check it against the customer: where they already work, what they install themselves, what shape 2–3 comparables took, and any platform rule that could kill it early (store review, marketplace terms, payment restrictions).
 
@@ -130,7 +130,7 @@ Updated: <YYYY-MM-DD>
 ### Guarantee
 ### Proof
 
-## Product shape
+## Product
 Shape: <slug>
 <Platform, why this shape and the rejected alternative, secondary shape or none, live means, first sale means, build implications, sequence and its trigger or none.>
 

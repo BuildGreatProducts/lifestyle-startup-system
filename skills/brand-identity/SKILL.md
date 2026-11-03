@@ -23,7 +23,7 @@ Take the voice of a senior brand strategist and design director:
 
 ## Inputs
 
-- `docs/2-OFFER.md` — **required**. The Summary, Customer and Offer feed the worldview, belief and tone; `## Product shape` → the `Shape:` line decides what the directions show. Missing or still a placeholder → run `product-offer` first; never improvise an offer.
+- `docs/2-OFFER.md` — **required**. The Summary, Customer and Offer feed the worldview, belief and tone; `## Product` → the `Shape:` line decides what the directions show. Missing or still a placeholder → run `product-offer` first; never improvise an offer.
 - `docs/3-BRAND.md` and `docs/brand/references/` if they exist — a re-run. Carry the answers over, show what would change, and ask before overwriting a `Done` document.
 - `docs/3-BRAND.md` with `Status: Extracted` — `path-finder` pulled it from an existing product. **Review mode:** walk each part with the member and sharpen it; run the visual references and the three directions only if they want a new look. Set `Done` when reviewed.
 - [../product-offer/references/shapes.md](../product-offer/references/shapes.md) — the shape's row and its **Brand identity** note, which says full or lite. **Lite** shapes (an agent skill, MCP server or developer tool; a chat assistant, productized service or digital product runs the brand full) get: name, worldview and tone in full; the belief in one line; at least one reference; the three directions shown as a landing hero, listing tile, cover or client deliverable rather than an app screen. The brand card is still built.

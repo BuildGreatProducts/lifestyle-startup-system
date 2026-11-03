@@ -33,7 +33,7 @@ Read everything above before scoring anything. Note each item with a one-phrase 
 
 ### 2. Settle the shape
 
-Name the product's shape from [../product-offer/references/shapes.md](../product-offer/references/shapes.md) and confirm it with the member — every later step adapts to it. It goes into the extracted `## Product shape` section in step 6.
+Name the product's shape from [../product-offer/references/shapes.md](../product-offer/references/shapes.md) and confirm it with the member — every later step adapts to it. It goes into the extracted `## Product` section in step 6.
 
 **Done when:** the member has confirmed one shape slug.
 

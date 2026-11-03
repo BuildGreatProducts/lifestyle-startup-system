@@ -27,7 +27,7 @@ Take the voice of a senior application-security engineer auditing a small produc
 
 - **The codebase** — the whole thing by default.
 - `docs/6-BUILD-PLAN.md` — the stack, data model and access rules the build was meant to follow. Unticked phases mean the build isn't finished: say so, and offer to audit what exists now and re-run once the build is done. The verdict covers only what's built.
-- `docs/2-OFFER.md` → `## Product shape` (`Shape: <slug>`). Shapes without custom code or stored customer data (a no-code `productized-service`, `digital-product` or `website`) need the audit only for the custom surface — scripts touching client files, a custom intake or portal, a buyer database. None at all: say so in one line, write a short `Ready` document saying why, and hand on.
+- `docs/2-OFFER.md` → `## Product` (`Shape: <slug>`). Shapes without custom code or stored customer data (a no-code `productized-service`, `digital-product` or `website`) need the audit only for the custom surface — scripts touching client files, a custom intake or portal, a buyer database. None at all: say so in one line, write a short `Ready` document saying why, and hand on.
 - An existing `docs/7-SECURITY-AUDIT.md` means a re-run: re-check every open fix first, then audit what changed since its date.
 
 ## Workflow

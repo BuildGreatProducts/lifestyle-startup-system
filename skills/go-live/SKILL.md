@@ -25,7 +25,7 @@ Many members have never deployed anything. Take the voice of a patient senior en
 
 - `docs/7-SECURITY-AUDIT.md` — read **first**. Rules in step 1.
 - `docs/6-BUILD-PLAN.md` — the stack, hosting, services, the **Only you can set** list and the **Launch requirements**. Unticked build phases: stop and finish the build first. An existing product whose `docs/0-PATH.md` ticks the build plan as Done has no plan: read the stack and hosting from the codebase instead.
-- `docs/2-OFFER.md` → `## Product shape` (`Shape: <slug>`) and pricing; the shape's **Live means** and **Go live** notes in [../product-offer/references/shapes.md](../product-offer/references/shapes.md).
+- `docs/2-OFFER.md` → `## Product` (`Shape: <slug>`) and pricing; the shape's **Live means** and **Go live** notes in [../product-offer/references/shapes.md](../product-offer/references/shapes.md).
 - `docs/5-FLOWS.md` — the front door (landing page, store listing copy) and the magic moment the smoke test must reach.
 - **The codebase** — config, environment variables used versus documented, test keys, deploy and packaging files.
 - An existing `docs/8-GO-LIVE.md` means the member is resuming: carry on from the first unticked step, re-checking the last ticked one still holds.

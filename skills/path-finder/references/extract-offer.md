@@ -23,7 +23,7 @@ Follow the section order `product-offer` uses, so its review can work section by
 - **Summary** — the pitch in two or three sentences, assembled from the parts below.
 - **Customer** — who the product is *actually built for*, per the evidence. Flag loudly where that differs from who the member says it's for: that gap is one of the most valuable things extraction surfaces.
 - **Offer** — customer, pain, outcome, mechanism, guarantee, proof; each one or two sentences, each traceable to evidence. Where the evidence is silent (usually guarantee, often proof), write the honest gap — *"No guarantee anywhere on the current site — decide one in the review"* — never an invention.
-- **Product shape** — `Shape: <slug>` as confirmed in path-finder's step 2, with one line on why.
+- **Product** — `Shape: <slug>` as confirmed in path-finder's step 2, with one line on why.
 - **Pricing** — what's charged today (from the site, payment code or listing, or "currently free — no price has ever been asked"), the model and billing unit the evidence implies, and who pays.
 - **Sources** — the files, URLs and listings each section came from.
 
